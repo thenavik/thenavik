@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡️ Fun fact: ...
 -->
 
-## I'm a Front-end developer
+## I'm a Web-designer & Front-end developer
 
 <p style="margin: 40px 0">
    <a href="https://github-readme-stats.vercel.app/api?username=thenavik&show_icons=true&theme=radical">
